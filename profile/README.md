@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=J2KB%20-%20Journey%20to%20know%20beautiful%20coding&fontSize=40&animation=fadeIn&fontAlignY=40&)
-
 <div align=center>
+
+![노션커버](https://user-images.githubusercontent.com/90634012/184526699-d851fd83-a4f8-428a-8779-59079e3da24f.png)
 
 ## __J2KB는 10주 동안의 여행을 함께할 "모험가"를 찾고 있습니다.__      
 <br />
