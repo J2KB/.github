@@ -17,7 +17,7 @@ J2KB는 비영리 목적의 IT 스터디 커뮤니티로 모든 IT 분야에서 
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2kb.official/)](https://www.instagram.com/j2kb.official)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j2kbcoding@gmail.com)](mailto:j2kbcoding@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/J2KB)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/J2KB)](https://www.j2kb.com)
 
 <img src="https://img.shields.io/badge/HTML5-yellow?style=flat&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-orange?style=flat&logo=CSS3&logoColor=1572B6"/>
